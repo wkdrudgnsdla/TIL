@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Study/키워드/ref, out.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "ref, out"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/키워드/ref, out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "ref, out 의 백링크"
             }
           },
           {
@@ -173,29 +178,32 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "694702e9d6edcc34",
   "lastOpenFiles": [
-    "Study/SOLID 원칙.md",
     "Study/Invoke.md",
+    "Study/키워드/ref, out.md",
+    "Study/키워드",
+    "Study/대리자/func.md",
+    "Study/대리자/Action.md",
+    "Study/대리자/Delegate.md",
+    "Study/대리자/Lambda.md",
+    "Study/SOLID 원칙.md",
     "Study/namespace.md",
     "Study/Generic.md",
     "Study/기초개념/Unity생명주기.md",
     "Study/기초개념/Unity transform.md",
-    "Study/ref, out.md",
     "Study/기초개념/Unity 콜라이더, 트리거의 태그 접근.md",
     "Study/동시성과 병렬성.md",
     "Study/구체 클래스.md",
     "Study/Resources/image.png",
     "Study/Resources/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-12_234646.png",
-    "Study/대리자/Action.md",
     "Study/Resources",
     "Study/Unity Bezier Curves.md",
     "Study/Unity Frustum Culling.md",
     "Study/Unity Object Pooling.md",
-    "Study/대리자/Delegate.md",
     "Study/기초개념",
     "Study/Resources/Untitled.png",
-    "Study/var 키워드.md",
+    "Study/키워드/var 키워드.md",
     "Study/디자인패턴",
     "Study/대리자",
     "Resources",
@@ -208,9 +216,6 @@
     "Study/Unity SceneLoad.md",
     "Study/Unity Quaternion.md",
     "Study/Unity Inverse Kinematics(단순개념).md",
-    "Study/Unity Interface.md",
-    "Study/Unity FSM.md",
-    "Notion/UI구상 13868a87d1498050b08fd24b0fea78aa.md",
     "Study/Resources/화면_녹화_중_2025-06-11_160154.gif",
     "Study/Resources/image 11.png",
     "Study/Resources/image 10.png",
@@ -219,7 +224,6 @@
     "Study/Resources/image 7.png",
     "장경훈 포트폴리오 1e468a87d14980e791a5cef11cb034da",
     "Study",
-    "홈 12691127b24e455e8ac738c3d0049d55",
-    "장경훈 노션 1a668a87d149806daf6fd7cbffd09b29"
+    "홈 12691127b24e455e8ac738c3d0049d55"
   ]
 }
