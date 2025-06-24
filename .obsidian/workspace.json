@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/키워드/ref, out.md",
+                "file": "Study/대리자/Delegate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ref, out"
+              "title": "Delegate"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/키워드/ref, out.md",
+                "file": "Study/대리자/Delegate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ref, out 의 백링크"
+              "title": "Delegate 의 백링크"
             }
           },
           {
@@ -178,17 +178,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "694702e9d6edcc34",
+  "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
-    "Study/Invoke.md",
-    "Study/키워드/ref, out.md",
-    "Study/키워드",
     "Study/대리자/func.md",
+    "Study/키워드/예약키워드/예약키워드.md",
+    "Study/키워드/예약키워드/namespace.md",
+    "Study/키워드/예약키워드/ref, out.md",
+    "Study/키워드/예약키워드/무제",
+    "Study/키워드/예약키워드",
+    "Study/Invoke.md",
+    "Study/키워드",
     "Study/대리자/Action.md",
     "Study/대리자/Delegate.md",
     "Study/대리자/Lambda.md",
     "Study/SOLID 원칙.md",
-    "Study/namespace.md",
     "Study/Generic.md",
     "Study/기초개념/Unity생명주기.md",
     "Study/기초개념/Unity transform.md",
@@ -222,8 +225,6 @@
     "Study/Resources/image 9.png",
     "Study/Resources/image 8.png",
     "Study/Resources/image 7.png",
-    "장경훈 포트폴리오 1e468a87d14980e791a5cef11cb034da",
-    "Study",
-    "홈 12691127b24e455e8ac738c3d0049d55"
+    "장경훈 포트폴리오 1e468a87d14980e791a5cef11cb034da"
   ]
 }
