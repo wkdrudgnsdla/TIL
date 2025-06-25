@@ -68,3 +68,5 @@ public class WantWant : MonoBehaviour
 - 유니티 메뉴얼 링크
 
 [https://docs.unity3d.com/kr/530/Manual/Namespaces.html](https://docs.unity3d.com/kr/530/Manual/Namespaces.html)
+
+[예약키워드 설명]
