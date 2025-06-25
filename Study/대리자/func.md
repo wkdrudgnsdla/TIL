@@ -17,3 +17,4 @@ void Start()
 	Debug.Log(Math?.Invoke()); //1~9중 무작위 숫자 출력
 }
 ```
+위와 같이 `return`즉 반환값이 `int`형인 함수를 `Func<T>`형식에 자료형을 명시하여 사용하였다.
