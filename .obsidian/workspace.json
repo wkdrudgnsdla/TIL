@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/대리자/Delegate.md",
+                "file": "Study/키워드/문맥키워드/문맥키워드 설명.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delegate"
+              "title": "문맥키워드 설명"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/대리자/Delegate.md",
+                "file": "Study/키워드/문맥키워드/문맥키워드 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Delegate 의 백링크"
+              "title": "문맥키워드 설명 의 백링크"
             }
           },
           {
@@ -178,19 +178,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "694702e9d6edcc34",
   "lastOpenFiles": [
+    "Study/키워드/문맥키워드/var 키워드.md",
+    "Study/키워드/예약키워드/예약키워드 설명.md",
+    "Study/키워드/문맥키워드/문맥키워드 설명.md",
     "Study/대리자/func.md",
-    "Study/키워드/예약키워드/예약키워드.md",
+    "Study/키워드/문맥키워드",
+    "Study/대리자/Action.md",
+    "Study/대리자/Lambda.md",
+    "Study/대리자/Delegate.md",
     "Study/키워드/예약키워드/namespace.md",
     "Study/키워드/예약키워드/ref, out.md",
     "Study/키워드/예약키워드/무제",
     "Study/키워드/예약키워드",
     "Study/Invoke.md",
     "Study/키워드",
-    "Study/대리자/Action.md",
-    "Study/대리자/Delegate.md",
-    "Study/대리자/Lambda.md",
     "Study/SOLID 원칙.md",
     "Study/Generic.md",
     "Study/기초개념/Unity생명주기.md",
@@ -206,7 +209,6 @@
     "Study/Unity Object Pooling.md",
     "Study/기초개념",
     "Study/Resources/Untitled.png",
-    "Study/키워드/var 키워드.md",
     "Study/디자인패턴",
     "Study/대리자",
     "Resources",
@@ -218,13 +220,11 @@
     "Study/Unity Trajectory(탄도학).md",
     "Study/Unity SceneLoad.md",
     "Study/Unity Quaternion.md",
-    "Study/Unity Inverse Kinematics(단순개념).md",
     "Study/Resources/화면_녹화_중_2025-06-11_160154.gif",
     "Study/Resources/image 11.png",
     "Study/Resources/image 10.png",
     "Study/Resources/image 9.png",
     "Study/Resources/image 8.png",
-    "Study/Resources/image 7.png",
-    "장경훈 포트폴리오 1e468a87d14980e791a5cef11cb034da"
+    "Study/Resources/image 7.png"
   ]
 }
