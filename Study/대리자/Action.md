@@ -4,9 +4,7 @@ Action은 입력과 출력이 없는 메서드를 가리킬 수 있는 델리게
 하지만 Action은 void 타입만 반환 가능하다. 반환값이 필요하다면 Func를 사용한다.
 
 ## 예시1
-
 ---
-
 ```csharp
 Action Math;
 private int num1 = 4;
@@ -21,6 +19,7 @@ void Start()
 		Math?.Invoke();
 }
 
+//?.Invoke()는 Math Action이 Null이 아닌지 판단하고 실행시켜줌
 void Min()
 {
 		sum = num1 - num2;
