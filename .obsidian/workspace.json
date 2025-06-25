@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
+                "file": "Study/대리자/Func.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "프로퍼티(Property) 의 개요"
+              "title": "Func 의 개요"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "689c7a8d9926bcc4",
   "lastOpenFiles": [
     "Study/대리자/Action.md",
     "Study/대리자/대리자.md",
