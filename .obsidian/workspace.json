@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로퍼티(Property)"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "프로퍼티(Property) 의 나가는 링크"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "프로퍼티(Property) 의 개요"
             }
           },
           {
@@ -155,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,19 +169,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-importer:Open Importer": false,
-      "publish:변경사항 게재": false
+      "publish:변경사항 게재": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "689c7a8d9926bcc4",
   "lastOpenFiles": [
+    "Study/Unity FSM.md",
+    "Study/연구/Unity Trajectory(탄도학).md",
+    "Study/연구",
     "Study/대리자/Action.md",
     "Study/대리자/Delegate.md",
     "Study/대리자/func.md",
@@ -207,14 +216,11 @@
     "Study/Resources/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-12_234646.png",
     "Study/Resources",
     "Study/Unity Bezier Curves.md",
-    "Study/Unity Frustum Culling.md",
-    "Study/Unity Object Pooling.md",
     "Study/기초개념",
     "Study/Resources/Untitled.png",
     "Study/디자인패턴",
     "Study/대리자",
     "Resources",
-    "Study/Resources/%ED%99%94%EB%A9%B4_%EB%85%B9%ED%99%94_%EC%A4%91_2024-12-06_232209.mp4",
     "Study/Resources/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-12-06_233016.png",
     "Study/Resources/화면_녹화_중_2025-06-11_160154.gif",
     "Study/Resources/image 11.png",

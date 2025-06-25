@@ -70,66 +70,41 @@ FSM의 핵심은 단 하나의 상태만을 가진다는 점이다 상태를 기
 ## FSM 예시 코드
 
 - 코드
-    
-    using UnityEngine;
-    
-    public class Monster : MonoBehaviour
-    
-    {
-    
-    public enum State
-    
-    {
-    
-    Idle,
-    
-    Move,
-    
-    Attack
-    
-    }
-    
-    private State_state;
-    
-    private void Start()
-    {
-    
-    _state = State.Idle;
-    
-    }
-    
-    private void Update()
-    
-    {
-    
-    switch(_state)
-    
-    {
-    
-    case State.Idle;
-    
-    //여기에 Idle상태의 목록을 사용
-    
-    break;
-    
-    case State.Move;
-    
-    //여기에 Move상태의 목록을 사용
-    
-    break;
-    
-    case State.Attack;
-    
-    //여기에 Attack상태의 목록을 사용
-    
-    break;
-    
-    }
-    
-    }
-    
-    }
-    
+
+```csharp
+using UnityEngine;
+
+	public class Monster : MonoBehaviour
+	{
+
+		public enum State
+		{
+		Idle,
+		Move,
+		Attack
+		}
+
+		private State_state;
+
+		private void Start()
+		{
+			_state = State.Idle;
+		}
+
+		private void Update() 
+		{
+			switch(_state)
+			{
+			case State.Idle; //여기에 Idle상태의 목록을 사용
+				break;
+			case State.Move;    //여기에 Move상태의 목록을 사용
+				break;
+			 case State.Attack;    //여기에 Attack상태의 목록을 사용
+				break;
+			} 
+		}
+	}
+```
 
 위의 코드에서 열거형을 나타내는 enum을 통해 여러 잡들을 편리하게 생성한 뒤
 
