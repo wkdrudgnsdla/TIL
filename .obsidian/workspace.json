@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
+                "file": "Study/키워드/문맥키워드/문맥키워드 설명.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로퍼티(Property)"
+              "title": "문맥키워드 설명"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/키워드/문맥키워드/문맥키워드 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "문맥키워드 설명 의 백링크"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/키워드/문맥키워드/프로퍼티(Property).md",
+                "file": "Study/키워드/문맥키워드/문맥키워드 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "프로퍼티(Property) 의 나가는 링크"
+              "title": "문맥키워드 설명 의 나가는 링크"
             }
           },
           {
@@ -161,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,24 +181,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "689c7a8d9926bcc4",
+  "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
-    "Study/Unity FSM.md",
-    "Study/연구/Unity Trajectory(탄도학).md",
-    "Study/연구",
-    "Study/대리자/Action.md",
+    "Study/대리자/Func.md",
+    "[대리자.md",
     "Study/대리자/Delegate.md",
-    "Study/대리자/func.md",
-    "Study/대리자/Lambda.md",
-    "Study/대리자/대리자.md",
-    "Study/키워드/예약키워드/ref, out.md",
-    "Study/키워드/예약키워드/namespace.md",
-    "Study/키워드/문맥키워드/프로퍼티(Property).md",
-    "Study/키워드/문맥키워드/문맥키워드 설명.md",
+    "Study/대리자/Action.md",
+    "Study/구체 클래스.md",
+    "[디자인 패턴.md",
     "Study/디자인패턴/팩토리 패턴.md",
     "Study/디자인패턴/싱글톤 패턴.md",
     "Study/디자인패턴/상태 패턴.md",
     "Study/디자인패턴/디자인 패턴.md",
+    "Study/키워드/문맥키워드/프로퍼티(Property).md",
+    "Study/Unity FSM.md",
+    "Study/연구/Unity Trajectory(탄도학).md",
+    "Study/연구",
+    "Study/대리자/Lambda.md",
+    "Study/대리자/대리자.md",
+    "Study/키워드/예약키워드/ref, out.md",
+    "Study/키워드/예약키워드/namespace.md",
+    "Study/키워드/문맥키워드/문맥키워드 설명.md",
     "Study/키워드/문맥키워드/var 키워드.md",
     "Study/키워드/예약키워드/예약키워드 설명.md",
     "Study/키워드/문맥키워드",
@@ -210,12 +214,9 @@
     "Study/기초개념/Unity생명주기.md",
     "Study/기초개념/Unity transform.md",
     "Study/기초개념/Unity 콜라이더, 트리거의 태그 접근.md",
-    "Study/동시성과 병렬성.md",
-    "Study/구체 클래스.md",
     "Study/Resources/image.png",
     "Study/Resources/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-06-12_234646.png",
     "Study/Resources",
-    "Study/Unity Bezier Curves.md",
     "Study/기초개념",
     "Study/Resources/Untitled.png",
     "Study/디자인패턴",
