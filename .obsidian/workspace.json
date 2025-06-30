@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/키워드/문맥키워드/dynamic.md",
+                "file": "Study/키워드/문맥키워드/var.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dynamic"
+              "title": "var"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/대리자/Action.md",
+                "file": "Study/키워드/문맥키워드/var.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Action 의 나가는 링크"
+              "title": "var 의 나가는 링크"
             }
           },
           {
@@ -181,10 +181,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "689c7a8d9926bcc4",
   "lastOpenFiles": [
+    "Study/키워드/문맥키워드/dynamic, default.md",
+    "Study/키워드/문맥키워드/var.md",
     "Study/키워드/문맥키워드/문맥키워드 설명.md",
-    "Study/키워드/문맥키워드/dynamic.md",
+    "Study/키워드/문맥키워드/프로퍼티(Property).md",
+    "Study/Generic.md",
+    "[Generic.md",
     "Study/키워드/예약키워드/예약키워드 설명.md",
     "Study/키워드/예약키워드/namespace.md",
     "Study/대리자/Action.md",
@@ -216,10 +220,6 @@
     "Study/대리자/Delegate.md",
     "Study/대리자/대리자.md",
     "[대리자.md",
-    "Study/키워드/문맥키워드/var 키워드.md",
-    "Study/키워드/문맥키워드/프로퍼티(Property).md",
-    "[문맥키워드 설명.md",
-    "[예약키워드 설명.md",
     "Study/컬링",
     "Study/연구",
     "Study/키워드/문맥키워드",
