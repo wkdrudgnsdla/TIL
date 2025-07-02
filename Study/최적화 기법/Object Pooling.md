@@ -1,5 +1,4 @@
 유니티에서 오브젝트를 생성할때 Instantiate를 사용하고 삭제할때는 Destroy를 사용하는데
-
 Instantiate와 Distroy는 상당한 비용을 먹는다.
 
 Instantiate는 메모리를 할당하고 리소스를 로드하는등의 초기화 과정이 필요하고
