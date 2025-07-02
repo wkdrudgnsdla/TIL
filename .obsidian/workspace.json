@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "닷넷 프레임워크"
             }
           }
         ]
@@ -178,15 +182,15 @@
   },
   "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
-    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
-    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+    "Study/C#공부/닷넷 프레임워크/JIT.md",
     "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
+    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
     "Study/C#공부/닷넷 프레임워크/CLR.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
-    "Study/C.md",
-    "Study/C#공부/닷넷 프레임워크/JIT.md",
-    "Study/C#공부/예외처리.md",
     "Study/C#공부/csharp.md",
+    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+    "Study/C.md",
+    "Study/C#공부/예외처리.md",
     "Study/C#공부/ror.md",
     "Study/C#공부/객체지향 프로그래밍",
     "Study/최적화 기법/컬링/Frustum Culling.md",
