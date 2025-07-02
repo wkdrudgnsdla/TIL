@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/닷넷 프레임워크/CLR.md",
+                "file": "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLR"
+              "title": "캡슐화"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/C#공부/닷넷 프레임워크/CLR.md",
+                "file": "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CLR 의 나가는 링크"
+              "title": "캡슐화 의 나가는 링크"
             }
           },
           {
@@ -183,9 +183,14 @@
   },
   "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
+    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
+    "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
+    "Study/C#공부/ror.md",
+    "Study/C#공부/객체지향 프로그래밍",
+    "Study/C#공부/닷넷 프레임워크/JIT.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/닷넷 프레임워크/CLR.md",
-    "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
     "Study/C#공부/csharp.md",
     "Study/C#공부/예외처리.md",
@@ -197,7 +202,6 @@
     "Study/C#공부",
     "Study/구체 클래스.md",
     "Study/명명규칙.md",
-    "Study/SOLID 원칙.md",
     "Study/최적화 기법/컬링/Occlusion Culling.md",
     "Study/Resources/Pasted image 20250701204044.png",
     "Study/Resources/Pasted image 20250701203913.png",
@@ -213,21 +217,17 @@
     "Study/C#공부/키워드/예약키워드/예약키워드 설명.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
     "Study/대리자/Action.md",
-    "Study/Unity Quaternion.md",
     "Study/Resources/짐벌락.gif",
     "Study/Resources/짐벌락.gif",
-    "Study/C#공부/키워드/예약키워드/ref, out.md",
     "Study/Resources/Untitled.png",
     "Study/Resources/image 7.png",
     "Study/Resources/image 3.png",
     "Study/Resources/image 1.png",
     "Study/Resources/%ED%99%94%EB%A9%B4_%EB%85%B9%ED%99%94_%EC%A4%91_2024-12-06_232209.mp4",
     "Study/Resources/짐벌락.htm",
-    "Study/동시성과 병렬성.md",
     "Study/최적화 기법/컬링",
     "Study/연구",
     "Study/C#공부/키워드/문맥키워드",
-    "Study/키워드/예약키워드/무제",
-    "Study/C#공부/키워드/예약키워드"
+    "Study/키워드/예약키워드/무제"
   ]
 }
