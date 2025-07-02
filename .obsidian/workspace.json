@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/CLR(Common Language Runtime).md",
+                "file": "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLR(Common Language Runtime)"
+              "title": "닷넷 프레임워크"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/C#공부/CLR(Common Language Runtime).md",
+                "file": "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CLR(Common Language Runtime) 의 나가는 링크"
+              "title": "닷넷 프레임워크 의 나가는 링크"
             }
           },
           {
@@ -181,13 +181,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "694702e9d6edcc34",
   "lastOpenFiles": [
-    "Study/C#공부/예외.md",
-    "Study/C#공부/닷넷 프레임워크.md",
-    "Study/C#공부/CLR(Common Language Runtime).md",
-    "Study/C#공부/Interface.md",
     "Study/C#공부/csharp.md",
+    "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
+    "Study/C#공부/닷넷 프레임워크/CLR.md",
+    "Study/C#공부/닷넷 프레임워크/CLI.md",
+    "Study/C#공부/예외처리.md",
+    "Study/C#공부/닷넷 프레임워크",
+    "Study/C#공부/Interface.md",
     "Study/최적화 기법/Object Pooling.md",
     "Study/최적화 기법",
     "Study/대리자/대리자.md",
@@ -222,12 +224,10 @@
     "Study/Resources/%ED%99%94%EB%A9%B4_%EB%85%B9%ED%99%94_%EC%A4%91_2024-12-06_232209.mp4",
     "Study/Resources/짐벌락.htm",
     "Study/동시성과 병렬성.md",
-    "Study/Unity Inverse Kinematics(단순개념).md",
     "Study/최적화 기법/컬링",
     "Study/연구",
     "Study/C#공부/키워드/문맥키워드",
     "Study/키워드/예약키워드/무제",
-    "Study/C#공부/키워드/예약키워드",
-    "Study/C#공부/키워드"
+    "Study/C#공부/키워드/예약키워드"
   ]
 }
