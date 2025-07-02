@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Study/C#공부/Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interface"
             }
           }
         ]
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/C#공부/Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Interface 의 나가는 링크"
             }
           },
           {
@@ -176,8 +181,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "694702e9d6edcc34",
+  "active": "689c7a8d9926bcc4",
   "lastOpenFiles": [
+    "Study/C#공부/csharp.md",
+    "Study/대리자/대리자.md",
+    "Study/C#공부/예외.md",
+    "Study/C#공부/닷넷 프레임워크.md",
+    "Study/C#공부/Interface.md",
+    "Study/무제",
+    "Study/C#공부",
+    "Study/구체 클래스.md",
+    "Study/명명규칙.md",
+    "Study/SOLID 원칙.md",
     "Study/컬링/Occlusion Culling.md",
     "Study/Resources/Pasted image 20250701204044.png",
     "Study/Resources/Pasted image 20250701203913.png",
@@ -208,20 +223,11 @@
     "Study/Unity Inverse Kinematics(단순개념).md",
     "Study/디자인패턴/디자인 패턴.md",
     "Study/오브젝트의 색상 변경.md",
-    "Study/디자인패턴/팩토리 패턴.md",
-    "Study/디자인패턴/싱글톤 패턴.md",
-    "Study/디자인패턴/상태 패턴.md",
-    "[디자인 패턴.md",
-    "Study/대리자/Func.md",
-    "Study/대리자/Lambda.md",
-    "Study/대리자/Delegate.md",
     "Study/컬링",
     "Study/연구",
     "Study/키워드/문맥키워드",
     "Study/키워드/예약키워드/무제",
     "Study/키워드/예약키워드",
-    "Study/키워드",
-    "Study/Resources",
-    "Study/기초개념"
+    "Study/키워드"
   ]
 }

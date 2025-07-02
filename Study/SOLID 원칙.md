@@ -419,7 +419,6 @@ public interface IMovable
 따라서 이렇게 하면 개방 폐쇄 원칙을 더 잘 지킬 수 있게 될것이란 생각이 든다
 
 ## DIP(Dependecy Inversion Principle, 의존 역전 원칙)
-
 ---
 
 ***의존 관계를 맺을 때 구체적인 것보다는 추상적인 것에 의존해야 한다.*** 
