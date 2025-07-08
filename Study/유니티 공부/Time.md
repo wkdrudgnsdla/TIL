@@ -54,6 +54,65 @@ void FixedUpdate()
 
 
 #### 4.Time.timeScale
+`Time.timeScale`을 사용해서 게임의 시간을 빠르게, 느리게 할 수 있다.
+예를 들어 `timeScale = 2`이면 2배속이고 `timeScale = 0.5`면 절반 속도이다.
+```csharp
+void Pause()
+{
+	Time.timeScale = 0;
+}
+
+void Resume()
+{
+	Time.timeScale = 1;
+}
+```
+
+
+#### 5.Time.realtimeSinceStartup
+`Time.realtimeSinceStartup`은 게임 시작 이후의 시간을 초 단위로 반환하는 읽기 전용 속성이지만 `Time.time`과 달리 `Time.timeScale`의 영향을 받지 않는다.
+```csharp
+void Update()
+{
+	if(Time.realtimesSinceStartup > 5)
+	{
+		Debug.Log("게임 시작 이후 5초가 지남");
+	}
+}
+```
+
+
+#### 6.Time.unscaledTime
+`Time.unscaledTime`은 타임스케일의 영향을 받지 않는 시간이다.
+타임 스케일이 0이여도, 2여도 영향받지 않고 그대로 흐른다.
+```csharp
+float PauseTime;
+
+void Pause()
+{
+	Time.timeScale = 0;
+}
+
+void Start()
+{
+	Pause();
+}
+
+void Update()
+{
+	if(Time.timeScale == 0)
+	{
+		PauseTime += Time.unscaledTime;
+		Debug.Log($"일시정지된 시간: {PauseTime}초");
+	}
+	else
+	{
+		PauseTime = 0;
+	}
+}
+```
+
+
 
 
 
