@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/MonoBehaviour.md",
+                "file": "Study/디자인패턴/옵저버 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MonoBehaviour"
+              "title": "옵저버 패턴"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "d8ccea9cb2680f99",
@@ -182,8 +182,13 @@
   },
   "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
-    "Study/유니티 공부/Unity생명주기.md",
+    "Study/디자인패턴/디자인 패턴.md",
+    "Study/디자인패턴/옵저버 패턴.md",
+    "Study/디자인패턴/팩토리 패턴.md",
+    "Study/디자인패턴/싱글톤 패턴.md",
+    "Study/디자인패턴/상태 패턴.md",
     "Study/C#공부/MonoBehaviour.md",
+    "Study/유니티 공부/Unity생명주기.md",
     "Study/SerializeField.md",
     "Study/C#공부/키워드/예약키워드/is, as.md",
     "Study/유니티 공부/Time.md",
@@ -193,21 +198,16 @@
     "Study/C#공부/객체지향 프로그래밍/객체지향 프로그래밍.md",
     "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
-    "Study/디자인패턴/디자인 패턴.md",
     "Study/대리자/이벤트.md",
     "Study/대리자/콜백.md",
     "Study/대리자/Delegate.md",
-    "Study/Generic.md",
+    "Study/C#공부/Generic.md",
     "Study/유니티 파일 생성.md",
     "Study/명명규칙.md",
     "Study/최적화 기법/Object Pooling.md",
     "Study/연구/Unity Bezier Curves.md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
     "Study/최적화 기법/컬링/Occlusion Culling.md",
-    "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
-    "Study/C#공부/닷넷 프레임워크/JIT.md",
-    "Study/C#공부/닷넷 프레임워크/CLR.md",
-    "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/객체지향 프로그래밍",
     "Study/C#공부/닷넷 프레임워크",
     "Study/최적화 기법",
