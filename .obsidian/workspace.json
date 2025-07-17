@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Study/C#공부/클래스/클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "클래스"
             }
           }
         ]
@@ -178,6 +182,9 @@
   },
   "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
+    "Study/C#공부/클래스/구체 클래스.md",
+    "Study/C#공부/클래스/클래스.md",
+    "Study/C#공부/클래스",
     "Study/디자인패턴/옵저버 패턴.md",
     "Study/디자인패턴/디자인 패턴.md",
     "Study/디자인패턴/팩토리 패턴.md",
@@ -202,8 +209,6 @@
     "Study/명명규칙.md",
     "Study/최적화 기법/Object Pooling.md",
     "Study/연구/Unity Bezier Curves.md",
-    "Study/최적화 기법/컬링/Frustum Culling.md",
-    "Study/최적화 기법/컬링/Occlusion Culling.md",
     "Study/C#공부/객체지향 프로그래밍",
     "Study/C#공부/닷넷 프레임워크",
     "Study/최적화 기법",
@@ -222,7 +227,6 @@
     "Study/Resources/짐벌락.htm",
     "Study/최적화 기법/컬링",
     "Study/연구",
-    "Study/C#공부/키워드/문맥키워드",
-    "Study/키워드/예약키워드/무제"
+    "Study/C#공부/키워드/문맥키워드"
   ]
 }
