@@ -11,10 +11,14 @@
             "id": "2afa49ce0ce20c4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Study/개발 구상/인터페이스 구상.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "인터페이스 구상"
             }
           }
         ]
