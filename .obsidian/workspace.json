@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "개발일지"
             }
+          },
+          {
+            "id": "2314a79b73afbab5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -180,7 +194,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2afa49ce0ce20c4e",
+  "active": "2314a79b73afbab5",
   "lastOpenFiles": [
     "Study/연구/Unity Trajectory(탄도학).md",
     "Study/개발일지.md",
