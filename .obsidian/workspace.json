@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "릴리즈 노트 1.9.10"
             }
+          },
+          {
+            "id": "a04a11a8c1fa3186",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2314a79b73afbab5",
+  "active": "a04a11a8c1fa3186",
   "lastOpenFiles": [
     "Study/연구/Unity Trajectory(탄도학).md",
     "Study/개발일지.md",
