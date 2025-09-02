@@ -37,12 +37,14 @@
             "id": "a04a11a8c1fa3186",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Study/최적화 기법/컬링/Frustum Culling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.12"
+              "icon": "lucide-file",
+              "title": "Frustum Culling"
             }
           }
         ],
@@ -208,6 +210,10 @@
   },
   "active": "a04a11a8c1fa3186",
   "lastOpenFiles": [
+    "Study/최적화 기법/컬링/Occlusion Culling.md",
+    "Study/최적화 기법/컬링/Frustum Culling.md",
+    "Study/최적화 기법/컬링/Culling.md",
+    "Study/명명규칙.md",
     "Study/연구/Unity Trajectory(탄도학).md",
     "Study/개발일지.md",
     "Study/개발 구상/인터페이스 구상.md",
@@ -232,10 +238,6 @@
     "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
     "Study/대리자/이벤트.md",
-    "Study/대리자/콜백.md",
-    "Study/대리자/Delegate.md",
-    "Study/C#공부/Generic.md",
-    "Study/유니티 파일 생성.md",
     "Study/C#공부/객체지향 프로그래밍",
     "Study/C#공부/닷넷 프레임워크",
     "Study/최적화 기법",
