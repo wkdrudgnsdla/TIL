@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/최적화 기법/컬링/Frustum Culling.md",
+                "file": "Study/C#공부/키워드/예약키워드/is, as.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frustum Culling"
+              "title": "is, as"
             }
           }
         ],
@@ -210,13 +210,17 @@
   },
   "active": "a04a11a8c1fa3186",
   "lastOpenFiles": [
+    "Study/C#공부/키워드/예약키워드/namespace.md",
+    "Study/C#공부/키워드/예약키워드/예약키워드 설명.md",
+    "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
+    "Study/C#공부/키워드/문맥키워드/dynamic, default.md",
     "Study/최적화 기법/컬링/Occlusion Culling.md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
+    "Study/개발일지.md",
+    "Study/개발 구상/인터페이스 구상.md",
     "Study/최적화 기법/컬링/Culling.md",
     "Study/명명규칙.md",
     "Study/연구/Unity Trajectory(탄도학).md",
-    "Study/개발일지.md",
-    "Study/개발 구상/인터페이스 구상.md",
     "Study/C#공부/Interface.md",
     "Study/개발 구상",
     "Study/C#공부/클래스/구체 클래스.md",
@@ -234,10 +238,6 @@
     "Study/유니티 공부/Time.md",
     "Study/C#공부/객체지향 프로그래밍/인터페이스.md",
     "Study/C#공부/객체지향 프로그래밍/다형성.md",
-    "Study/C#공부/객체지향 프로그래밍/객체지향 프로그래밍.md",
-    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
-    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
-    "Study/대리자/이벤트.md",
     "Study/C#공부/객체지향 프로그래밍",
     "Study/C#공부/닷넷 프레임워크",
     "Study/최적화 기법",
