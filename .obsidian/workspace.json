@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2314a79b73afbab5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.10"
-            }
-          },
-          {
             "id": "a04a11a8c1fa3186",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "is, as"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +195,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a04a11a8c1fa3186",
+  "active": "2afa49ce0ce20c4e",
   "lastOpenFiles": [
+    "Study/C#공부/키워드/예약키워드/is, as.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
     "Study/C#공부/키워드/예약키워드/예약키워드 설명.md",
     "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
@@ -234,7 +222,6 @@
     "Study/C#공부/MonoBehaviour.md",
     "Study/유니티 공부/Unity생명주기.md",
     "Study/SerializeField.md",
-    "Study/C#공부/키워드/예약키워드/is, as.md",
     "Study/유니티 공부/Time.md",
     "Study/C#공부/객체지향 프로그래밍/인터페이스.md",
     "Study/C#공부/객체지향 프로그래밍/다형성.md",
