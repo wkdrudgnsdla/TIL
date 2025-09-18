@@ -18,8 +18,6 @@ SceneManager.LoadScene("Villige");
 
 ## Additive방식
 
-(에디티브)
-
 Additive방식은 현재 씬을 유지한 채 추가적인 씬을 로드한다
 
 Additive방식은 씬 모드라는 것을 사용해야 하는데 방식은 아래와 같다
@@ -47,8 +45,6 @@ SceneManager.SetActiveScene(SceneManager.GetSceneByName("Villige");
 ---
 
 ## 비동기 방식
-
-(에이싱크)
 
 유니티는 비동기 방식으로 씬을 로드할 수 있어, 로드작업을 실행하는 동안
 
