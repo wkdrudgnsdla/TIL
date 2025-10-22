@@ -118,7 +118,108 @@ public class Cohesion : MonoBehaviour
 
 ```
 
+## 최종 코드
+```csharp
+using System.Collections.Generic;
+using UnityEngine;
 
+public class Bodis_Algorithm : MonoBehaviour
+{
+    [System.Serializable]
+    struct SpawnArea
+    {
+        public float _min, _max;
+    }
+
+    [Header("Boids")]
+    [SerializeField]
+    Transform _boids;
+    [SerializeField]
+    float _speed = 5f;
+    [SerializeField]
+    LayerMask _boidsLayer;
+
+    [Header("Range")]
+    [SerializeField, Range(0, 100f)]
+    float _detectRange = 10f;
+    [SerializeField, Range(0, 100f)]
+    float _separationRange = 5f;
+
+    [Header("Spawn")]
+    [SerializeField, Range(1, 1000)]
+    int _spawnCount;
+    [SerializeField]
+    SpawnArea _spawnAreaPosX;
+    [SerializeField]
+    SpawnArea _spawnAreaPosY;
+    [SerializeField]
+    SpawnArea _spawnAreaPosZ;
+
+    List<Transform> _boidAgents = new();
+
+    Alignment _alignmentRule = new();
+    Cohesion _cohesionRule = new();
+    Separation _separtionRule = new();
+
+    private void Awake()
+    {
+        SpawnBoids();
+    }
+
+    void SpawnBoids()
+    {
+        for (int i = 0; i < _spawnCount; i++)
+        {
+            Vector3 spawnPos = new Vector3(
+                Random.Range(_spawnAreaPosX._min, _spawnAreaPosX._max),
+                Random.Range(_spawnAreaPosY._min, _spawnAreaPosY._max),
+                Random.Range(_spawnAreaPosZ._min, _spawnAreaPosZ._max));
+
+            _boidAgents.Add(Instantiate(_boids, spawnPos, Quaternion.identity));
+        }
+    }//범위 안에서 스폰과 동시에 _boidAgents리스트에 추가
+
+    private void Update()
+    {
+        foreach (var agent in _boidAgents)
+        {
+            Vector3 dir = _cohesionRule.GetDirection(agent, GetNeighbor(agent, _detectRange));
+
+            dir += _alignmentRule.GetDirection(agent, GetNeighbor(agent, _detectRange));
+
+            dir += _separtionRule.GetDirection(agent, GetNeighbor(agent, _separationRange));
+
+            dir = Vector3.Lerp(agent.transform.forward, dir, Time.deltaTime);
+            dir.Normalize();
+
+            agent.transform.position += dir * _speed * Time.deltaTime;
+            agent.transform.rotation = Quaternion.LookRotation(dir);
+        }
+    }//위 3개 규칙 이용, 방향 정하는거
+
+    List<Transform> GetNeighbor(Transform agent, float range)
+    {
+        var overlaps = Physics.OverlapSphere(agent.position, range, _boidsLayer);
+
+        if (overlaps.Length == 0)
+            return null;
+
+        List<Transform> tf = new List<Transform>(overlaps.Length);
+
+        for (int i = 0; i < overlaps.Length; i++)
+        {
+            if (overlaps[i].transform == agent)
+                continue;
+
+            tf.Add(overlaps[i].transform);
+        }
+
+        return tf;
+    }//이웃 찾기
+}
+
+
+```
 
 
 문제점: 매 프레임마다 객체들이 나아가야 할 방향을 정하다 보니, 사용자가 군집 이동을 예측하기가 어렵다.
