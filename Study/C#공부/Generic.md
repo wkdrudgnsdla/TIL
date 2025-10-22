@@ -15,7 +15,6 @@ int, float, bool같은 값부터 string, object, class등의 참조형식,
 enum, delegatem interface등의 사용자 정의 형식등 자료형이면 아무것이나 다 넣을 수 있다
 
 ## 제네릭 메서드
-
 ---
 
 ```csharp
@@ -42,7 +41,6 @@ var num = Generic<Transform>(transform);
 int 대신 Transform을 사용하면 괄호 안의 리턴값도 Transform이여야 한다
 
 ## 제네릭 클래스
-
 ---
 
 제네릭은 메서드보단 클래스가 더 많이 사용되는데
