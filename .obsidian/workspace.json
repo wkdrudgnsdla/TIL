@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Boids 군집 알고리즘"
             }
+          },
+          {
+            "id": "d7ea83c6a3f45fc5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3ee2b88f245d978b",
+  "active": "d7ea83c6a3f45fc5",
   "lastOpenFiles": [
     "Pasted image 20251022154638.png",
     "Pasted image 20251022154223.png",
