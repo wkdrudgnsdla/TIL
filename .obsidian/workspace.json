@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "릴리즈 노트 1.10.6"
             }
+          },
+          {
+            "id": "f34f39e48d8715f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7c8cae04932068d9",
+  "active": "f34f39e48d8715f2",
   "lastOpenFiles": [
     "Study/C#공부/클래스/구체 클래스.md",
     "Study/명명규칙.md",
