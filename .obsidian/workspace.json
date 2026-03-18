@@ -37,12 +37,14 @@
             "id": "f34f39e48d8715f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.4"
+              "icon": "lucide-file",
+              "title": "SOLID 원칙"
             }
           }
         ],
