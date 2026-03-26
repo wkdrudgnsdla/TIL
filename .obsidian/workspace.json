@@ -39,28 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+                "file": "Study/대리자/Delegate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID 원칙"
-            }
-          },
-          {
-            "id": "fe5e56de835169cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "title": "Delegate"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,8 +208,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fe5e56de835169cf",
+  "active": "f34f39e48d8715f2",
   "lastOpenFiles": [
+    "Study/대리자/Action.md",
+    "Study/대리자/Func.md",
+    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
@@ -245,9 +236,6 @@
     "Study/연구/Unity Trajectory(탄도학).md",
     "Study/동시성과 병렬성.md",
     "Study/개발일지.md",
-    "Study/유니티 공부/Unity FSM.md",
-    "Study/유니티 공부/Unity Quaternion.md",
-    "Study/디자인패턴/옵저버 패턴.md",
     "Study/Resources/Pasted image 20251022150845.png",
     "Study/Resources/Pasted image 20251022154638.png",
     "Study/Resources/Pasted image 20251022154223.png",
