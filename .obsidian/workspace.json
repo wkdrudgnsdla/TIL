@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "SOLID 원칙"
             }
+          },
+          {
+            "id": "fe5e56de835169cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f34f39e48d8715f2",
+  "active": "fe5e56de835169cf",
   "lastOpenFiles": [
     "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
