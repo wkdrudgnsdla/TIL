@@ -336,7 +336,7 @@ public class Train : RailVehicle
 
     public override void Reverse()
     {
-        base.GoForward();
+        base.Reverse();
     }
 }
 ```
