@@ -12,7 +12,7 @@ private void PlayAnimLocal(string animName)
 }
 ```
 가장 많이 사용하는 예시를 하나 들자면
-위와같은 메서드가 있다고 쳤을때  Anim이 null이라면 Anim의 Play메서드를 실행하지 않습니다.
+위와같은 메서드가 있다고 쳤을때  Anim이 null이라면 Anim의 Play 메서드를 실행하지 않습니다.
 
 ## ??연산자
 ?? 연산자는 a ?? b 이런 식으로 작성하며, 왼쪽 값(a)이 null이면 오른쪽 값(b)를 반환하는 연산이다
