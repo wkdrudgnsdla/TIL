@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/대리자/Delegate.md",
+                "file": "Study/C#공부/연산자/Null 조건 연산자.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Delegate"
+              "title": "Null 조건 연산자"
             }
           }
         ],
@@ -210,10 +210,19 @@
   },
   "active": "f34f39e48d8715f2",
   "lastOpenFiles": [
+    "Study/C#공부/Generic.md",
+    "Study/C#공부/연산자/Null 조건 연산자.md",
+    "Study/C#공부/연산자",
+    "Study/C#공부/무제.md",
+    "Study/C#공부/객체지향 프로그래밍/다형성.md",
+    "Study/C#공부/객체지향 프로그래밍/인터페이스.md",
+    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
+    "Study/유니티 공부/Time.md",
+    "Study/대리자/Lambda.md",
+    "Study/대리자/Delegate.md",
     "Study/대리자/Action.md",
     "Study/대리자/Func.md",
     "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
-    "Study/C#공부/객체지향 프로그래밍/캡슐화.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
@@ -223,19 +232,11 @@
     "Study/유니티 파일 생성.md",
     "Study/명명규칙.md",
     "Study/C#공부/csharp.md",
-    "Study/C#공부/Generic.md",
     "Study/C#공부/Interface.md",
     "Study/C#공부/MonoBehaviour.md",
     "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
     "Study/C#공부/키워드/문맥키워드/dynamic, default.md",
     "Study/C#공부/키워드/예약키워드/is, as.md",
-    "Study/C#공부/예외처리.md",
-    "Study/유니티 공부/NavMeshAgent.md",
-    "Study/유니티 공부/Unity SceneLoad.md",
-    "Study/유니티 공부/Unity transform.md",
-    "Study/연구/Unity Trajectory(탄도학).md",
-    "Study/동시성과 병렬성.md",
-    "Study/개발일지.md",
     "Study/Resources/Pasted image 20251022150845.png",
     "Study/Resources/Pasted image 20251022154638.png",
     "Study/Resources/Pasted image 20251022154223.png",
@@ -254,7 +255,6 @@
     "Study/Resources/Pasted image 20250701203545.png",
     "Study/Resources/Pasted image 20250701203327.png",
     "Study/Resources/%ED%99%94%EB%A9%B4_%EB%85%B9%ED%99%94_%EC%A4%91_2024-12-06_232209.mp4",
-    "Study/Resources/짐벌락.htm",
-    "Study/최적화 기법/컬링"
+    "Study/Resources/짐벌락.htm"
   ]
 }
