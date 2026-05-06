@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
+                "file": "Study/C#공부/연산자/Null 조건 연산자.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID 원칙"
+              "title": "Null 조건 연산자"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "f92e565cef29e30b",
   "lastOpenFiles": [
+    "Study/점근식 표현 BigO.md",
+    "Study/최적화 기법/컬링/Occlusion Culling.md",
+    "Study/최적화 기법/컬링/Frustum Culling.md",
+    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/연산자/Null 조건 연산자.md",
     "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
     "Study/C#공부/Generic.md",
@@ -196,7 +200,6 @@
     "Study/대리자/Delegate.md",
     "Study/대리자/Action.md",
     "Study/대리자/Func.md",
-    "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
@@ -207,9 +210,6 @@
     "Study/명명규칙.md",
     "Study/C#공부/csharp.md",
     "Study/C#공부/Interface.md",
-    "Study/C#공부/MonoBehaviour.md",
-    "Study/C#공부/키워드/문맥키워드/dynamic, default.md",
-    "Study/C#공부/키워드/예약키워드/is, as.md",
     "Study/Resources/Pasted image 20251022150845.png",
     "Study/Resources/Pasted image 20251022154638.png",
     "Study/Resources/Pasted image 20251022154223.png",
