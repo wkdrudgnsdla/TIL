@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/연산자/Null 조건 연산자.md",
+                "file": "Study/C#공부/닷넷 프레임워크/JIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Null 조건 연산자"
+              "title": "JIT"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "f92e565cef29e30b",
   "lastOpenFiles": [
+    "Study/C#공부/닷넷 프레임워크/CLR.md",
+    "Study/C#공부/닷넷 프레임워크/CLI.md",
+    "Study/C#공부/연산자/Null 조건 연산자.md",
     "Study/점근식 표현 BigO.md",
     "Study/최적화 기법/컬링/Occlusion Culling.md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
     "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
-    "Study/C#공부/연산자/Null 조건 연산자.md",
     "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
     "Study/C#공부/Generic.md",
     "Study/C#공부/연산자",
@@ -200,7 +202,6 @@
     "Study/대리자/Delegate.md",
     "Study/대리자/Action.md",
     "Study/대리자/Func.md",
-    "Study/C#공부/닷넷 프레임워크/CLI.md",
     "Study/C#공부/닷넷 프레임워크/닷넷 프레임워크.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
     "Study/C#공부/키워드/예약키워드/ref, out.md",
@@ -209,7 +210,6 @@
     "Study/유니티 파일 생성.md",
     "Study/명명규칙.md",
     "Study/C#공부/csharp.md",
-    "Study/C#공부/Interface.md",
     "Study/Resources/Pasted image 20251022150845.png",
     "Study/Resources/Pasted image 20251022154638.png",
     "Study/Resources/Pasted image 20251022154223.png",
