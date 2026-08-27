@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/C#공부/클래스/abstract(추상).md",
+                "file": "Study/C#공부/키워드/abstract(추상).md",
                 "mode": "source",
                 "source": false
               },
@@ -183,10 +183,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f92e565cef29e30b",
+  "active": "694702e9d6edcc34",
   "lastOpenFiles": [
     "Study/C#공부/클래스/구체 클래스.md",
-    "Study/C#공부/클래스/abstract(추상).md",
+    "Study/C#공부/키워드/abstract(추상).md",
     "Study/C#공부/키워드/문맥키워드/var.md",
     "Study/C#공부/키워드/문맥키워드/dynamic, default.md",
     "Study/C#공부/키워드/예약키워드/ref, out.md",
