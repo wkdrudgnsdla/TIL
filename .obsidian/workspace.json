@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "LOD(Level of Detail)"
             }
-          },
-          {
-            "id": "e2ba48f1a591d5bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e2ba48f1a591d5bc",
+  "active": "f92e565cef29e30b",
   "lastOpenFiles": [
     "Study/최적화 기법/LOD(Level of Detail).md",
     "Pasted image 20260824180023.png",
