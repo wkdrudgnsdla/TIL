@@ -11,14 +11,13 @@
             "id": "f92e565cef29e30b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Study/최적화 기법/Draw Call.md",
-                "mode": "source",
-                "source": false
+                "file": "무제.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "Draw Call"
+              "icon": "lucide-table",
+              "title": "무제"
             }
           }
         ]
@@ -183,11 +182,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f92e565cef29e30b",
+  "active": "694702e9d6edcc34",
   "lastOpenFiles": [
-    "Study/최적화 기법/배칭/Batcing.md",
+    "Study/최적화 기법/배칭/Batching.md",
+    "무제.base",
+    "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
+    "Study/최적화 기법/배칭/Static batching(정적배칭).md",
     "Study/최적화 기법/Draw Call.md",
-    "Study/최적화 기법/배칭/Static batcing(정적배칭).md",
     "Study/C#공부/키워드/abstract(추상).md",
     "Study/최적화 기법/배칭",
     "Study/C#공부/클래스/구체 클래스.md",
@@ -212,9 +213,7 @@
     "Study/최적화 기법/컬링/Frustum Culling.md",
     "Study/C#공부/객체지향 프로그래밍/SOLID 원칙.md",
     "Study/C#공부/키워드/문맥키워드/프로퍼티(Property).md",
-    "Study/C#공부/Generic.md",
     "Study/C#공부/연산자",
-    "Study/C#공부/무제.md",
     "Study/Resources/Pasted image 20251022150845.png",
     "Study/Resources/Pasted image 20251022154638.png",
     "Study/Resources/Pasted image 20251022154223.png",
@@ -227,7 +226,6 @@
     "Study/C#공부/객체지향 프로그래밍",
     "Study/C#공부/닷넷 프레임워크",
     "Study/최적화 기법",
-    "Study/C#공부",
     "Study/Resources/Pasted image 20250701204044.png",
     "Study/Resources/Pasted image 20250701203913.png",
     "Study/Resources/Pasted image 20250701203545.png"
