@@ -11,13 +11,14 @@
             "id": "f92e565cef29e30b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "무제.base",
-                "viewName": "표"
+                "file": "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "무제"
+              "icon": "lucide-file",
+              "title": "Dynamic batching(동적배칭)"
             }
           }
         ]
@@ -182,12 +183,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "694702e9d6edcc34",
+  "active": "f92e565cef29e30b",
   "lastOpenFiles": [
-    "Study/최적화 기법/배칭/Batching.md",
-    "무제.base",
-    "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
     "Study/최적화 기법/배칭/Static batching(정적배칭).md",
+    "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
+    "무제.base",
+    "Study/최적화 기법/배칭/Batching.md",
     "Study/최적화 기법/Draw Call.md",
     "Study/C#공부/키워드/abstract(추상).md",
     "Study/최적화 기법/배칭",
