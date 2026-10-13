@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/최적화 기법/배칭/Static batching(정적배칭).md",
+                "file": "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽 데이터 구조/Vertex Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static batching(정적배칭)"
+              "title": "Vertex Buffer"
+            }
+          },
+          {
+            "id": "4c0660036f69af07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,20 +196,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f92e565cef29e30b",
+  "active": "4c0660036f69af07",
   "lastOpenFiles": [
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽 데이터 구조/Index Buffer.md",
+    "Study/최적화 기법/Draw Call.md",
+    "Study/최적화 기법/LOD(Level of Detail).md",
+    "Study/최적화 기법/배칭/Static batching(정적배칭).md",
     "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
     "Study/최적화 기법/배칭/Batching.md",
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽 데이터 구조/Index Buffer.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽 데이터 구조/Vertex Buffer.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽/무제",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽 데이터 구조",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인",
     "Study/컴퓨터 그래픽스",
     "Study/개발 구상/인터페이스 구상.md",
-    "Study/최적화 기법/배칭/Static batching(정적배칭).md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
-    "Study/최적화 기법/Draw Call.md",
     "Study/C#공부/Invoke.md",
     "Study/유니티 공부/유니티 파일 생성.md",
     "Study/C#공부/SerializeField.md",
@@ -213,7 +227,6 @@
     "Study/C#공부/키워드/예약키워드/ref, out.md",
     "Study/C#공부/키워드/예약키워드/namespace.md",
     "Study/C#공부/키워드/예약키워드/is, as.md",
-    "Study/최적화 기법/LOD(Level of Detail).md",
     "Pasted image 20260824180023.png",
     "Study/네트워킹/HTTP Request,Response 구조.md",
     "Study/네트워킹/HTTP메서드 1.md",
