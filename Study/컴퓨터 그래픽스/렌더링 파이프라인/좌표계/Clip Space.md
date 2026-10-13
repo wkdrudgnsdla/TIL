@@ -16,7 +16,7 @@ Clip Space의 좌표 구성
 | y   | 화면의 세로 방향에 대응하는 좌표         |
 | z   | 깊이와 클리핑에 사용되는 좌표           |
 | w   | 원근 나눗셈 및 클리핑 범위 결정에 사용되는 값 |
-Clip Space의 좌표는 아직 화면의 픽셀 좌표가 아니며, 원근 나눗셈(Perspective Division)을 거쳐 NDC(Normalized Device Coordinates)로 변환된다.
+Clip Space의 좌표는 아직 화면의 픽셀 좌표가 아니며, [[원근 나눗셈]]을 거쳐 NDC(Normalized Device Coordinates)로 변환된다.
 
 
 ### 내부 동작 원리
