@@ -31,7 +31,8 @@
               "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "694702e9d6edcc34",
+  "active": "4c0660036f69af07",
   "lastOpenFiles": [
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계/Clip Space.md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계",
     "Study/컴퓨터 그래픽스/그래픽 데이터 구조/Vertex Buffer.md",
     "Study/최적화 기법/배칭/Static batching(정적배칭).md",
