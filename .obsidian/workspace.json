@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/NDC.md",
+                "file": "Study/컴퓨터 그래픽스/렌더링 파이프라인/렌더링 파이프라인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NDC"
+              "title": "렌더링 파이프라인"
+            }
+          },
+          {
+            "id": "e709abf1b9e88a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clipping"
+            }
+          },
+          {
+            "id": "447675c491e89675",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ]
@@ -55,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "투영",
+                "query": "렌더링 파이프라인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +100,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,23 +210,24 @@
   },
   "active": "4c0660036f69af07",
   "lastOpenFiles": [
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/렌더링 파이프라인.md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Draw Call.md",
+    "Study/최적화 기법/배칭/Batching.md",
+    "Study/최적화 기법/배칭/Static batching(정적배칭).md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/NDC.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/투영 행렬.md",
     "Study/최적화 기법/컬링/Frustum Culling.md",
     "Pasted image 20261013204625.png",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/Clip Space.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/동차 좌표.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/원근 나눗셈.md",
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환/NDC.md",
     "Pasted image 20261013203326.png",
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Draw Call.md",
     "Pasted image 20261013193722.png",
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/좌표계 및 변환",
     "Study/컴퓨터 그래픽스/그래픽 데이터 구조/Vertex Buffer.md",
-    "Study/최적화 기법/배칭/Static batching(정적배칭).md",
     "Study/최적화 기법/배칭/Dynamic batching(동적배칭).md",
-    "Study/최적화 기법/배칭/Batching.md",
     "Study/컴퓨터 그래픽스/그래픽 데이터 구조/Index Buffer.md",
     "Study/최적화 기법/LOD(Level of Detail).md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/그래픽/무제",
