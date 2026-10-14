@@ -45,7 +45,8 @@
               "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4c0660036f69af07",
+  "active": "447675c491e89675",
   "lastOpenFiles": [
-    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/렌더링 파이프라인.md",
+    "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/Draw Call.md",
     "Study/최적화 기법/배칭/Batching.md",
