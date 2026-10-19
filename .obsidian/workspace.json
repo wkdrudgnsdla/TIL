@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
+                "file": "Study/최적화 기법/캐싱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clipping"
+              "title": "캐싱"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "렌더링 파이프라인",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +208,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "447675c491e89675",
+  "active": "e709abf1b9e88a2c",
   "lastOpenFiles": [
+    "Study/C#공부/닷넷 프레임워크/JIT.md",
+    "Study/최적화 기법/캐싱.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/렌더링 파이프라인.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/Clipping.md",
     "Study/컴퓨터 그래픽스/렌더링 파이프라인/Vertex Shader.md",
@@ -244,9 +245,7 @@
     "Study/동시성과 병렬성.md",
     "무제.base",
     "무제.md",
-    "Study/C#공부/키워드/abstract(추상).md",
     "Study/최적화 기법/배칭",
-    "Study/C#공부/클래스/구체 클래스.md",
     "Pasted image 20260824180023.png",
     "Study/네트워킹",
     "Study/C#공부/연산자",
